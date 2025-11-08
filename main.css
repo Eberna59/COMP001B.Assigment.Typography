@@ -24,7 +24,7 @@ a:focus, a:hover {
 }
 
 body {
-
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 code {
@@ -32,7 +32,8 @@ code {
 }
 
 h1, h2, h3 {
-
+text-align: center;
+margin-top: 5px;
 }
 
 h1 {
@@ -48,21 +49,22 @@ h3 {
 }
 
 header {
-	
+	text-align: center;
+	margin-top: 5px;
 }
 
 main {
-
+	margin-top: 15px;
 }
 
 p {
-
+	text-align: center;
 }
 
 #intro {
-
+margin-top: 20px;
 }
 
 #how-does-it-work, #influence, #joke {
-
+	margin-bottom: 15px;
 }
